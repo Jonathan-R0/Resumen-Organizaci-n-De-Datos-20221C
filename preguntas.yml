@@ -1,0 +1,69 @@
+Introduccion: 
+    Qué paradojas hay?
+    Cuáles son?
+    Qué es cross validation?
+Variables:
+    Qué tipos de variables hay?
+    Qué tipos de problemas hay y en función de que?
+Métricas:
+    Cómo se calcula la precisión?
+    Cómo se calcula la exhaustividad?
+    Cómo se calcula el false positive rate?
+    Cómo se calcula el f1 score?
+    Cómo se calcula el accuracy?
+Bayes Naive:
+    Cómo se calcula la probabilidad de que un documento esté en cierta clase con Laplace Smoothing?
+    Qué es el algorítmo de Turney? Cómo se calcula el PMI?
+Limpieza de Datos:
+    De qué formas pueden faltar los datos?
+    Cómo se pueden reemplazar?
+    Cómo se pueden detectar?
+Árboles:
+    ID3:
+        Cómo se generan los árboles ID3 con entropía?
+        Cómo se generan los árboles ID3 con gini?
+    C4.5:
+        Cómo se generan los árboles C4.5?
+        En qué se diferencian de los ID3?
+Bootstrap Aggregating:
+    Qué es?
+Attribute Bagging:
+    Qué es?
+Ensambles:
+    Homogéneos:
+        Bagging:
+            Qué es Bagging?
+        Boosting:
+            AdaBoost
+            Gradient Boosting
+            XGBoost
+    Híbridos:
+        Qué es el Voting?
+        Qué es el Stacking?
+        Qué es el Cascading?
+        Características de cada uno?
+Redes Neuronales:
+    Cómo se entrena un perceptrón simple?
+    Qué es backpropagation?
+    Qué es una red SOM?
+    Qué métrica usamos para calcular el error de predicción?
+    Qué función de activación usamos en función del tipo de clasificación?
+    Diferencias entre el learning rate y el coeficiente de regularización?
+Optimizadores:
+    Explicar:
+        - SGD
+        - Momentum
+        - Nesterov
+        - AdaGrad
+        - RMSProp
+        - Adam
+        - AdaMax
+        - AdaDelta
+Redes Profundas:
+    Para qué sirven?
+    Qué son las RBM?
+    Qué es un autoencoder?
+Redes Convolucionales:
+    Para qué sirven?
+    Qué tipo de capas tienen?
+    Qué son las redes GAN?
